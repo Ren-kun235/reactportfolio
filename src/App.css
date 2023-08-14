@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: linear-gradient(to bottom right, #8fac21, #14c188, #2eb0cb);
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-bottom: 4px solid black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.siteNav {
+  margin: 12px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.siteNav:hover,
+.siteNav:active {
+  color: black;
+}
+
+.eeveeImg {
+  display: flex;
+  justify-content: start;
+  flex: 1;
+}
+
+.myName {
+  display: flex;
+  flex: 1;
+  text-align: start;
+}
+
+.AboutMe {
+  background-color: lightblue;
+  min-height: 100vh;
+  position: relative;
+  /* display: block; */
+}
+
+.Portfolio {
+  min-height: 100vh;
+  background-color: orange;
+  position: relative;
+  /* display: none; */
+}
+
+.Resume {
+  min-height: 100vh;
+  /* display: none; */
+}
+
+.footer {
+	background-color: green;
+	border-top: 4px solid black;
+	position: absolute;
+  height: 7%;
+	width: 100%;
+	bottom: 0;
+	color: white;
+	font-size: 17px;
+  margin-bottom: 0px;
+}
+
+.contactInfo {
+  color: black;
+  display: flex;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.links {
+  color: blue;
+}
+
+.links:hover {
+  color: #83CBEC;
+}
+
+.info {
+  flex: 1;
+}
