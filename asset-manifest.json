@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ren-kun235/reactportfolio.git/static/css/main.3baa64fe.css",
-    "main.js": "/Ren-kun235/reactportfolio.git/static/js/main.cf69cc53.js",
-    "static/js/787.e29dc422.chunk.js": "/Ren-kun235/reactportfolio.git/static/js/787.e29dc422.chunk.js",
-    "index.html": "/Ren-kun235/reactportfolio.git/index.html",
-    "main.3baa64fe.css.map": "/Ren-kun235/reactportfolio.git/static/css/main.3baa64fe.css.map",
-    "main.cf69cc53.js.map": "/Ren-kun235/reactportfolio.git/static/js/main.cf69cc53.js.map",
-    "787.e29dc422.chunk.js.map": "/Ren-kun235/reactportfolio.git/static/js/787.e29dc422.chunk.js.map"
+    "main.css": "/reactportfolio/static/css/main.3baa64fe.css",
+    "main.js": "/reactportfolio/static/js/main.e30c783c.js",
+    "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
+    "index.html": "/reactportfolio/index.html",
+    "main.3baa64fe.css.map": "/reactportfolio/static/css/main.3baa64fe.css.map",
+    "main.e30c783c.js.map": "/reactportfolio/static/js/main.e30c783c.js.map",
+    "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3baa64fe.css",
-    "static/js/main.cf69cc53.js"
+    "static/js/main.e30c783c.js"
   ]
 }
