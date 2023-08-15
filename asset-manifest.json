@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ren-kun235/reactportfolio.git/static/css/main.3baa64fe.css",
+    "main.js": "/Ren-kun235/reactportfolio.git/static/js/main.cf69cc53.js",
+    "static/js/787.e29dc422.chunk.js": "/Ren-kun235/reactportfolio.git/static/js/787.e29dc422.chunk.js",
+    "index.html": "/Ren-kun235/reactportfolio.git/index.html",
+    "main.3baa64fe.css.map": "/Ren-kun235/reactportfolio.git/static/css/main.3baa64fe.css.map",
+    "main.cf69cc53.js.map": "/Ren-kun235/reactportfolio.git/static/js/main.cf69cc53.js.map",
+    "787.e29dc422.chunk.js.map": "/Ren-kun235/reactportfolio.git/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3baa64fe.css",
+    "static/js/main.cf69cc53.js"
+  ]
+}
